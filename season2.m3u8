@@ -1,0 +1,13 @@
+#### `season2.m3u8`
+
+```m3u8
+#EXTM3U
+#EXT-X-VERSION:3
+
+#EXTINF:600,Episode 1
+http://example.com/videos/season2/episode1.mp4
+#EXTINF:600,Episode 2
+http://example.com/videos/season2/episode2.mp4
+#EXTINF:600,Episode 3
+http://example.com/videos/season2/episode3.mp4
+```
