@@ -1,3 +1,4 @@
+
 #### `series.m3u8` (Archivo Maestro)
 
 ```m3u8
@@ -7,6 +8,4 @@
 https://raw.githubusercontent.com/JeffersonFrantz/listasIPTV/main/season1.m3u8
 #EXT-X-STREAM-INF:BANDWIDTH=1280000,NAME="Season 2"
 https://raw.githubusercontent.com/JeffersonFrantz/listasIPTV/main/season2.m3u8
-#EXT-X-STREAM-INF:BANDWIDTH=1280000,NAME="Season 3"
-http://example.com/m3u8/season3.m3u8
 ```
