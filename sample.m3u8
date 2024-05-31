@@ -1,0 +1,56 @@
+### Ejemplo Completo
+
+#### `series.m3u8` (Archivo Maestro)
+
+```m3u8
+#EXTM3U
+
+#EXT-X-STREAM-INF:BANDWIDTH=1280000,NAME="Season 1"
+http://example.com/m3u8/season1.m3u8
+#EXT-X-STREAM-INF:BANDWIDTH=1280000,NAME="Season 2"
+http://example.com/m3u8/season2.m3u8
+#EXT-X-STREAM-INF:BANDWIDTH=1280000,NAME="Season 3"
+http://example.com/m3u8/season3.m3u8
+```
+
+#### `season1.m3u8`
+
+```m3u8
+#EXTM3U
+#EXT-X-VERSION:3
+
+#EXTINF:600,Episode 1
+http://example.com/videos/season1/episode1.mp4
+#EXTINF:600,Episode 2
+http://example.com/videos/season1/episode2.mp4
+#EXTINF:600,Episode 3
+http://example.com/videos/season1/episode3.mp4
+```
+
+#### `season2.m3u8`
+
+```m3u8
+#EXTM3U
+#EXT-X-VERSION:3
+
+#EXTINF:600,Episode 1
+http://example.com/videos/season2/episode1.mp4
+#EXTINF:600,Episode 2
+http://example.com/videos/season2/episode2.mp4
+#EXTINF:600,Episode 3
+http://example.com/videos/season2/episode3.mp4
+```
+
+#### `season3.m3u8`
+
+```m3u8
+#EXTM3U
+#EXT-X-VERSION:3
+
+#EXTINF:600,Episode 1
+http://example.com/videos/season3/episode1.mp4
+#EXTINF:600,Episode 2
+http://example.com/videos/season3/episode2.mp4
+#EXTINF:600,Episode 3
+http://example.com/videos/season3/episode3.mp4
+```
