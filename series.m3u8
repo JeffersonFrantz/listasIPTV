@@ -4,8 +4,6 @@
 ```m3u8
 #EXTM3U
 #EXT-X-VERSION:3
-#EXT-X-STREAM-INF:BANDWIDTH=1280000,NAME="Season 1"
-https://raw.githubusercontent.com/JeffersonFrantz/listasIPTV/main/season1.m3u8
-#EXT-X-STREAM-INF:BANDWIDTH=1280000,NAME="Season 2"
-https://raw.githubusercontent.com/JeffersonFrantz/listasIPTV/main/season2.m3u8
+#EXTINF:-1 tvg-logo="", The Big Bang 9x24 The Convergence Convergence – ONSeason Finale
+http://vd.ec.cx/vd/dd/RC/RCServer10/ondemand/TBBTT09EP24.mp4 
 ```
