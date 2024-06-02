@@ -1,9 +1,3 @@
-
-#### `series.m3u8` (Archivo Maestro)
-
-```m3u8
 #EXTM3U
-#EXT-X-VERSION:3
-#EXTINF:-1 tvg-logo="", The Big Bang 9x24 The Convergence Convergence – ONSeason Finale
-http://vd.ec.cx/vd/dd/RC/RCServer10/ondemand/TBBTT09EP24.mp4 
-```
+#EXT-X-STREAM-INF:BANDWIDTH=150000"
+https://pdrz.v41f5cdbeef.site/_v2-kdkg/12a3c523fe105800ed8c394685aeeb0b972ef95c5fb0e1fa43427baea93ece832257df1a4b6125fcfa38c35da05dee86aad28d46d73fc4e9d4e5a1381022a18931c212a05d0db85f4dc2b4bc6f4e74136b679964150064929ccfef589ff634db2155f2/h/list;15a38634f803584ba8926411d7bee906856cab0654b5ba.m3u8
